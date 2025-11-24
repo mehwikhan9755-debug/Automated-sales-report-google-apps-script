@@ -1,4 +1,8 @@
 📧 Automated Sales Data Email System (Google Apps Script)
+![Photo1](https://github.com/mehwikhan9755-debug/Automated-sales-report-google-apps-script/blob/main/Screenshot%202025-11-24%20121604.png)
+![photo2](https://github.com/mehwikhan9755-debug/Automated-sales-report-google-apps-script/blob/main/Screenshot%202025-11-24%20121625.png)
+![photo3](https://github.com/mehwikhan9755-debug/Automated-sales-report-google-apps-script/blob/main/Screenshot%202025-11-24%20121705.png)
+![photo3](https://github.com/mehwikhan9755-debug/Automated-sales-report-google-apps-script/blob/main/Screenshot%202025-11-24%20121826.png)
 
 This project automates the process of filtering sales data by Salesman, generating a separate Google Sheet for each individual, and sending them their data via email — all in one click.
 
